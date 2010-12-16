@@ -1,0 +1,28 @@
+These files are related to the Brother KH-930E knitting machine.
+
+This knitting machine can save data to an external floppy disk drive, which connects to the machine using a serial cable.
+
+These external floppy drives are difficult to find and expensive, and the physical format of the floppy disks is different than 3.25" PC drives.
+
+The program PDDemulate acts like a floppy drive, and runs on linux machines, allowing you to save and restore data from the knitting machine.
+
+I have figured out most of the formatting of the saved data files, and the tools that I used to do that are also in this repository.
+
+There is also an example of how to generate a text banner in a .png image file, 
+which may be useful to some.
+
+The work that I did was based on earlier work by John R. Hogerhuis.
+
+The work that I've done has been extended by others. Please check out the great projects that they have done:
+
+Becky Stern and Limor Fried:
+http://blog.makezine.com/archive/2010/11/how-to_hacking_the_brother_kh-930e.html
+http://blog.craftzine.com/archive/2010/11/hack_your_knitting_machine.html
+
+Travis Goodspeed:
+http://travisgoodspeed.blogspot.com/2010/12/hacking-knitting-machines-keypad.html
+
+If you find this useful, drop me some email (or send me a knitting sample)
+
+Steve Conklin
+steve at conklinhouse dot com
